@@ -1,4 +1,3 @@
-```markdown
 # UI Kit Constructor - SPA
 
 A complete, single-page UI Kit constructor built with Alpine.js, CSS3, and HTML5. Create, manage, and export design systems with this fully client-side application.
@@ -281,7 +280,6 @@ A: Go to Actions → "Clear All Data" or clear browser localStorage.
 **Made with ❤️ for designers and developers everywhere**
 
 ⭐ **If you find this useful, please star the repository!** ⭐
-```
 
 ---
 
